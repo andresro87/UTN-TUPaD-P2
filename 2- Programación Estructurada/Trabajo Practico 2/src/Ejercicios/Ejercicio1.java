@@ -2,7 +2,7 @@ package Ejercicios;
 
 import java.util.Scanner;
 
-public class Ejercicio1 { //A?o bisiesto
+public class Ejercicio1 { //Año bisiesto
 
     public static void main(String[] args) {
         int anio;

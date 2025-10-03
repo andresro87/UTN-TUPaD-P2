@@ -2,10 +2,6 @@ package Ejercicios;
 
 import java.util.Scanner;
 
-/**
- *
- * @author andre
- */
 public class Ejercicio11 {
 
     static double porcentajeDescuento = 0.10; //Variable global
